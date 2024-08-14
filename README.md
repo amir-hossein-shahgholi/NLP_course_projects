@@ -70,7 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - Amir Hossein Shahgholi – Initial work and maintenance.
 - Contributors of libraries and tools used in the projects.
 - Course instructors and peers for guidance and feedback.
-
----
-
-Feel free to customize the README as per the specific details and additional sections as required for a better understanding of the projects and their setup.
